@@ -63,4 +63,4 @@ Characters are what roleplayers can play. Since we created the Beach location, w
 
 Hajime Hinata is now marked as a character. The character settings are self explanatory. You don't need to change anything here
 
-<img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20the%20Character%20Hajime%20Hinata/14.png"/>
+<img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20the%20Character%20Hajime%20Hinata/end.png"/>

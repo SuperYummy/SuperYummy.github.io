@@ -2,3 +2,5 @@
 - [Getting Started](getting_started/summary.md)
     - [Creating a Beach Location](getting_started/creating_a_beach_location.md)
     - [Creating the Character Hajime Hinata](getting_started/creating_the_character_hajime_hinata.md)
+    - [Giving the Character Ownership of Hajime Hinata](getting_started/giving_the_character_ownership_of_hajime_hinata.md)
+    - [Roleplaying as the Character](getting_started/roleplaying_as_the_character.md)
