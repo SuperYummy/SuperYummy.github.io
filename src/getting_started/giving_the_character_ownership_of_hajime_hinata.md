@@ -13,7 +13,7 @@ Right now, Chiaki knows Hajime Hinata is a character, but no one owns him yet. T
 
    *The Character Ownerships message*
 
-5. Press **Characters**
+5. Press **Character**
 
     <img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Giving%20the%20Character%20Ownership%20of%20Hajime%20Hinata/5.png"/>
 

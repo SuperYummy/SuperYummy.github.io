@@ -7,7 +7,7 @@ Characters are what roleplayers can play. Since we created the Beach location, w
 
 3. The first page has the **Entities** section. Press its button
 
-4. Entities are options that appear in locations. Press **Create**
+4. Press **Create**
 
     <img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20the%20Character%20Hajime%20Hinata/4.png"/>
 
