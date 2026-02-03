@@ -43,15 +43,15 @@ Worlds are location based. Everything in your world begins with a location
 
    *Selecting the beach🌊 channel*
 
-Selecting the channel creates a default location. It will also create a message in that channel that automatically displays the location's information. If the channel becaomse quiet, Chiaki will resend this message
-
-<img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/7_1.png"/>
-
-*A created default location*
-
-<img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/7_2.png"/>
-
-*The location message in the beach🌊 channel*
+    Selecting the channel creates a default location. It will also create a message in that channel that automatically displays the location's information. If the channel becaomse quiet, Chiaki will resend this message
+    
+    <img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/7_1.png"/>
+    
+    *A created default location*
+    
+    <img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/7_2.png"/>
+    
+    *The location message in the beach🌊 channel*
 
 8. Rename the default location to Beach
 
@@ -60,12 +60,13 @@ Selecting the channel creates a default location. It will also create a message 
 10. (Optional) Could add a description too
 
 
-<img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/end_1.png"/>
-
-*The location renamed to Beach, with a beach image and description: "Ahh~ the breeze"
-
-<img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/end_2.png"/>
-*The updated location message in the beach🌊 channel*
+    <img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/end_1.png"/>
+    
+    *The location renamed to Beach, with a beach image and description: "Ahh~ the breeze"*
+    
+    <img src="https://raw.githubusercontent.com/SuperYummy/SuperYummy.github.io/refs/heads/main/images/Creating%20A%20Beach%20Location/end_2.png"/>
+    
+    *The updated location message in the beach🌊 channel*
 
 Done! You have created your world's first location, the Beach!
 
