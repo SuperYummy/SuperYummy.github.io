@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to *World*, a guide about creating a roleplay world
+Welcome to *Chiaki Nanami - World*, a guide about creating a roleplay world
 
 This guide will bring your roleplay world to life on Discord. You can create an experience where stories grow naturally through player interaction
 
