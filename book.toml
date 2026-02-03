@@ -1,5 +1,6 @@
 [book]
 authors = ["SuperYummy"]
+description = "A guide to creating your roleplay world."
 language = "en"
 multilingual = false
 src = "src"
